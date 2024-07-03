@@ -1,9 +1,7 @@
 
 # ID generator
 
-![Image Description](img/example.png)
-
-<img src="img/example.png" width="100">
+<img src="img/example.png" width="300">
 
 
 ## Demo
