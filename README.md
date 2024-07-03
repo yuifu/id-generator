@@ -3,6 +3,9 @@
 
 ![Image Description](img/example.png)
 
+<img src="img/example.png" width="300">
+
+
 ## Demo
 
 ![Demo](img/demo.gif)
